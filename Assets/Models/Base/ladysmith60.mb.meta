@@ -1,0 +1,273 @@
+fileFormatVersion: 2
+guid: ac9f9184bf5b8874b8ec6758c59986d5
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: briefcase
+    100002: BriefCAse:CLYA2
+    100004: BriefCAse:CLYA2B
+    100006: BriefCAse:CLYA3
+    100008: BriefCAse:CLYA3B
+    100010: BriefCAse:CLYA4
+    100012: BriefCAse:CLYA4B
+    100014: BriefCAse:CLYA5
+    100016: BriefCAse:CLYA5B
+    100018: BriefCAse:CLYA6
+    100020: BriefCAse:CLYA6B
+    100022: BriefCAse:CLYB1
+    100024: BriefCAse:CLYB1B
+    100026: BriefCAse:CLYB2
+    100028: BriefCAse:CLYB2B
+    100030: BriefCAse:CLYB3
+    100032: BriefCAse:CLYB3B
+    100034: BriefCAse:CLYB4
+    100036: BriefCAse:CLYB4B
+    100038: BriefCAse:CLYB5
+    100040: BriefCAse:CLYB5B
+    100042: BriefCAse:CLYB6
+    100044: BriefCAse:CLYB6B
+    100046: BriefCAse:CLYC1
+    100048: BriefCAse:CLYC1B
+    100050: BriefCAse:CLYC2
+    100052: BriefCAse:CLYC2B
+    100054: BriefCAse:CLYC3
+    100056: BriefCAse:CLYC3B
+    100058: BriefCAse:CLYC4
+    100060: BriefCAse:CLYC4B
+    100062: BriefCAse:CLYC5
+    100064: BriefCAse:CLYC5B
+    100066: BriefCAse:CLYC6
+    100068: BriefCAse:CLYC6B
+    100070: BriefCAse:CLYC6B 1
+    100072: BriefCAse:CLYD1
+    100074: BriefCAse:CLYD1B
+    100076: BriefCAse:CLYD2
+    100078: BriefCAse:CLYD2B
+    100080: BriefCAse:CLYD3
+    100082: BriefCAse:CLYD3B
+    100084: BriefCAse:CLYD4
+    100086: BriefCAse:CLYD4B
+    100088: BriefCAse:CLYD5
+    100090: BriefCAse:CLYD5B
+    100092: BriefCAse:CLYD6
+    100094: BriefCAse:GroupA
+    100096: BriefCAse:GroupB
+    100098: BriefCAse:GroupC
+    100100: BriefCAse:GroupD
+    100102: BriefCAse:LAdySmithRigDone:SuitCaseClyinders
+    100104: BriefCAse:RSuitCase
+    100106: BriefCAse:SuitCAse
+    100108: BriefCAse:SuitCaseOpen
+    100110: BriefCAse:SuitCasePivotToOpen
+    100112: BriefCAse:SuitCasePivotToOpen1
+    100114: COG
+    100116: COG1
+    100118: HeadA
+    100120: HeadB
+    100122: //RootNode
+    100124: LAnkle
+    100126: LELbow
+    100128: LElbow
+    100130: LFoot
+    100132: LHand
+    100134: LHip
+    100136: LKnee
+    100138: LKnee 1
+    100140: LLEg
+    100142: LShoulder
+    100144: LShoulder 1
+    100146: LTow
+    100148: LWrist
+    100150: LWrist 1
+    100152: mesh
+    100154: Neck
+    100156: NeckA
+    100158: RAnkle
+    100160: RElbow
+    100162: RElbow 1
+    100164: RFoot
+    100166: RHand
+    100168: RHip
+    100170: RKnee
+    100172: RKnee 1
+    100174: RLEg
+    100176: RShoudler
+    100178: RShoulder
+    100180: RToe
+    100182: RWrist
+    100184: RWrist 1
+    100186: SpineA
+    100188: SpineA 1
+    100190: SPineB
+    100192: SpineB
+    100194: UmblaClosed
+    100196: UmblellClosed
+    100198: UmblellClosed1
+    100200: UmbrelaOpen
+    100202: UmbrellaOpen
+    100204: UmbrellaOpen1
+    100206: unthouchables
+    100208: World
+    400000: briefcase
+    400002: BriefCAse:CLYA2
+    400004: BriefCAse:CLYA2B
+    400006: BriefCAse:CLYA3
+    400008: BriefCAse:CLYA3B
+    400010: BriefCAse:CLYA4
+    400012: BriefCAse:CLYA4B
+    400014: BriefCAse:CLYA5
+    400016: BriefCAse:CLYA5B
+    400018: BriefCAse:CLYA6
+    400020: BriefCAse:CLYA6B
+    400022: BriefCAse:CLYB1
+    400024: BriefCAse:CLYB1B
+    400026: BriefCAse:CLYB2
+    400028: BriefCAse:CLYB2B
+    400030: BriefCAse:CLYB3
+    400032: BriefCAse:CLYB3B
+    400034: BriefCAse:CLYB4
+    400036: BriefCAse:CLYB4B
+    400038: BriefCAse:CLYB5
+    400040: BriefCAse:CLYB5B
+    400042: BriefCAse:CLYB6
+    400044: BriefCAse:CLYB6B
+    400046: BriefCAse:CLYC1
+    400048: BriefCAse:CLYC1B
+    400050: BriefCAse:CLYC2
+    400052: BriefCAse:CLYC2B
+    400054: BriefCAse:CLYC3
+    400056: BriefCAse:CLYC3B
+    400058: BriefCAse:CLYC4
+    400060: BriefCAse:CLYC4B
+    400062: BriefCAse:CLYC5
+    400064: BriefCAse:CLYC5B
+    400066: BriefCAse:CLYC6
+    400068: BriefCAse:CLYC6B
+    400070: BriefCAse:CLYC6B 1
+    400072: BriefCAse:CLYD1
+    400074: BriefCAse:CLYD1B
+    400076: BriefCAse:CLYD2
+    400078: BriefCAse:CLYD2B
+    400080: BriefCAse:CLYD3
+    400082: BriefCAse:CLYD3B
+    400084: BriefCAse:CLYD4
+    400086: BriefCAse:CLYD4B
+    400088: BriefCAse:CLYD5
+    400090: BriefCAse:CLYD5B
+    400092: BriefCAse:CLYD6
+    400094: BriefCAse:GroupA
+    400096: BriefCAse:GroupB
+    400098: BriefCAse:GroupC
+    400100: BriefCAse:GroupD
+    400102: BriefCAse:LAdySmithRigDone:SuitCaseClyinders
+    400104: BriefCAse:RSuitCase
+    400106: BriefCAse:SuitCAse
+    400108: BriefCAse:SuitCaseOpen
+    400110: BriefCAse:SuitCasePivotToOpen
+    400112: BriefCAse:SuitCasePivotToOpen1
+    400114: COG
+    400116: COG1
+    400118: HeadA
+    400120: HeadB
+    400122: //RootNode
+    400124: LAnkle
+    400126: LELbow
+    400128: LElbow
+    400130: LFoot
+    400132: LHand
+    400134: LHip
+    400136: LKnee
+    400138: LKnee 1
+    400140: LLEg
+    400142: LShoulder
+    400144: LShoulder 1
+    400146: LTow
+    400148: LWrist
+    400150: LWrist 1
+    400152: mesh
+    400154: Neck
+    400156: NeckA
+    400158: RAnkle
+    400160: RElbow
+    400162: RElbow 1
+    400164: RFoot
+    400166: RHand
+    400168: RHip
+    400170: RKnee
+    400172: RKnee 1
+    400174: RLEg
+    400176: RShoudler
+    400178: RShoulder
+    400180: RToe
+    400182: RWrist
+    400184: RWrist 1
+    400186: SpineA
+    400188: SpineA 1
+    400190: SPineB
+    400192: SpineB
+    400194: UmblaClosed
+    400196: UmblellClosed
+    400198: UmblellClosed1
+    400200: UmbrelaOpen
+    400202: UmbrellaOpen
+    400204: UmbrellaOpen1
+    400206: unthouchables
+    400208: World
+    4300000: briefcase
+    4300002: mesh
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: briefcase
+    13700002: mesh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 2
+  userData: 

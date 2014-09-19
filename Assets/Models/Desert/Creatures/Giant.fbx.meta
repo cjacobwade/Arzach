@@ -1,0 +1,177 @@
+fileFormatVersion: 2
+guid: fef53e277b1e665408139ec96f067bce
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: giantRIgA:COg
+    100004: giantRIgA:Cog
+    100006: giantRIgA:EyeL
+    100008: giantRIgA:EyeR
+    100010: giantRIgA:Giant
+    100012: giantRIgA:HEadA
+    100014: giantRIgA:LAnkle
+    100016: giantRIgA:LELbow
+    100018: giantRIgA:LELbow 1
+    100020: giantRIgA:LEye
+    100022: giantRIgA:LFoot
+    100024: giantRIgA:LFoot 1
+    100026: giantRIgA:LHAnd
+    100028: giantRIgA:LHand
+    100030: giantRIgA:LHANdle
+    100032: giantRIgA:LHip
+    100034: giantRIgA:LKNee
+    100036: giantRIgA:LKnee
+    100038: giantRIgA:LSHoudler
+    100040: giantRIgA:LShoulder
+    100042: giantRIgA:LWRist
+    100044: giantRIgA:NEck
+    100046: giantRIgA:Neck
+    100048: giantRIgA:RAnkle
+    100050: giantRIgA:RELbow
+    100052: giantRIgA:RElbow
+    100054: giantRIgA:REye
+    100056: giantRIgA:RFoot
+    100058: giantRIgA:RFoot 1
+    100060: giantRIgA:RHand
+    100062: giantRIgA:RHand 1
+    100064: giantRIgA:RHANdle
+    100066: giantRIgA:RHip
+    100068: giantRIgA:RKNee
+    100070: giantRIgA:RKnee
+    100072: giantRIgA:RSHoulder
+    100074: giantRIgA:RSHoulder 1
+    100076: giantRIgA:RWrist
+    100078: giantRIgA:SPineA
+    100080: giantRIgA:SpineA
+    100082: giantRIgA:SPineB
+    100084: giantRIgA:Untouchables
+    100086: giantRIgA:World
+    400000: //RootNode
+    400002: giantRIgA:COg
+    400004: giantRIgA:Cog
+    400006: giantRIgA:EyeL
+    400008: giantRIgA:EyeR
+    400010: giantRIgA:Giant
+    400012: giantRIgA:HEadA
+    400014: giantRIgA:LAnkle
+    400016: giantRIgA:LELbow
+    400018: giantRIgA:LELbow 1
+    400020: giantRIgA:LEye
+    400022: giantRIgA:LFoot
+    400024: giantRIgA:LFoot 1
+    400026: giantRIgA:LHAnd
+    400028: giantRIgA:LHand
+    400030: giantRIgA:LHANdle
+    400032: giantRIgA:LHip
+    400034: giantRIgA:LKNee
+    400036: giantRIgA:LKnee
+    400038: giantRIgA:LSHoudler
+    400040: giantRIgA:LShoulder
+    400042: giantRIgA:LWRist
+    400044: giantRIgA:NEck
+    400046: giantRIgA:Neck
+    400048: giantRIgA:RAnkle
+    400050: giantRIgA:RELbow
+    400052: giantRIgA:RElbow
+    400054: giantRIgA:REye
+    400056: giantRIgA:RFoot
+    400058: giantRIgA:RFoot 1
+    400060: giantRIgA:RHand
+    400062: giantRIgA:RHand 1
+    400064: giantRIgA:RHANdle
+    400066: giantRIgA:RHip
+    400068: giantRIgA:RKNee
+    400070: giantRIgA:RKnee
+    400072: giantRIgA:RSHoulder
+    400074: giantRIgA:RSHoulder 1
+    400076: giantRIgA:RWrist
+    400078: giantRIgA:SPineA
+    400080: giantRIgA:SpineA
+    400082: giantRIgA:SPineB
+    400084: giantRIgA:Untouchables
+    400086: giantRIgA:World
+    4300000: giantRIgA:Giant
+    7400000: Suicide
+    7400002: Suicide
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: giantRIgA:Giant
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Suicide
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 4747
+      wrapMode: 8
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  userData: 
